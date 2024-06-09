@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15206332&assignment_repo_type=AssignmentRepo)
+
 # SE-Assignment-2
 
 Assignment: Introduction to Software Engineering
@@ -25,19 +26,19 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
 
 there are several phases involved in the SDLC process, this include
 
-    Design: 
-    This involves Creating high-level and detailed designs of the software architecture and user interface. 
-    
-    Implementation: 
+    Design:
+    This involves Creating high-level and detailed designs of the software architecture and user interface.
+
+    Implementation:
     This involves Writing code and building the software according to the design specifications.
-    
-    Testing: 
+
+    Testing:
     Performing different tests to verify that the software meets quality standards and functional requirements.
-    
-    Deployment: 
-    Releasing the software to users or customers. 
-    
-    Maintenance: 
+
+    Deployment:
+    Releasing the software to users or customers.
+
+    Maintenance:
     Offering continuous support, updates, and improvements to the software after it has been deployed.
 
 Agile vs. Waterfall Models:
@@ -57,25 +58,26 @@ waterfall and agile model definition
     factor           Linear and sequential       | Iterative and incremental.
 
     Flexibility      changes are difficult and   | changes can be made at any time based on feedback.
-                     costly once the project is 
+                     costly once the project is
                      underway
 
     Documentation    Heavy documentation at each | Minimal documentation, focusing on working software.
                      phase
 
-    Customer         Limited to the initial      | Continuous involvement throughout the development process.  
-    Involvement      requirements phase                            
+    Customer         Limited to the initial      | Continuous involvement throughout the development process.
+    Involvement      requirements phase
 
-    Delivery         Software is delivered as a  | Software is delivered in small, functional increments                
+    Delivery         Software is delivered as a  | Software is delivered in small, functional increments
                      whole at the end of the       throughout the project.
-                     project.  
+                     project.
 
-    Risk Management  Risks are identified and    | Risks are continuously identified 
-                     mitigated early in the 
-                     project                                    
-                                       
-                                          
-               
+    Risk Management  Risks are identified and    | Risks are continuously identified
+                     mitigated early in the
+                     project
+
+
+
+
 scenarios where each can be used
 
     waterfall
@@ -102,7 +104,6 @@ Requirements Engineering:
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 
     Requirements enginerring in the software development lifecycle is defined as the process of Gathering, defining,documenting and maintaining the requirements for a software system. It involves understanding the needs and constraints of various stakeholders and ensuring that the software developed meets these requirements. It is an important part of the SDLC process as it gives the initial or primary direction of what problem the software will solve based on the client/user needs and system requirements, by outlining the requirements, the subsequent phases can be able to design, implement, deploy and maintain the software based on the initial software requirements
-
 
 Software Design Principles:
 
@@ -146,7 +147,7 @@ Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 
-    Unit Testing: 
+    Unit Testing:
 
         Assessing the functionality and behavior of individual components or modules within the software to ensure they   perform as expected.
 
@@ -173,9 +174,9 @@ What are version control systems, and why are they important in software develop
     A version control system (VCS) is a software tool that tracks changes to files over time, enabling collaboration among developers, maintaining a history of revisions, and facilitating the management of source code in a project
 
     examples
-    
+
     git
-     
+
         Features:
             -Distributed version control system (DVCS) allowing for local and remote repositories.
             -Efficient branching and merging capabilities.
@@ -238,15 +239,16 @@ Define software maintenance and explain the different types of maintenance activ
     Perfective Maintenance:
 
         Focuses on enhancing the software's functionality, performance, or usability based on user feedback or evolving requirements. This may involve adding new features, improving existing features, or optimizing performance to enhance user satisfaction and productivity.
-        
+
     Preventive Maintenance:
 
         Aims to proactively identify and address potential issues or vulnerabilities in the software before they lead to problems. This may include code refactoring, performance tuning, or security enhancements to improve the software's long-term maintainability and reliability.
 
     why is maintenance an essential part of the software life cycle?
-    
+
         Software maintenance is crucial as it ensures that software applications remain functional, reliable, and relevant over time. By addressing defects, accommodating changes, and enhancing features, maintenance activities enable software to adapt to evolving user needs, technological advancements, and business requirements. Regular maintenance enhances user satisfaction, minimizes the risk of system failures or security breaches, and optimizes the performance and longevity of software applications, ultimately contributing to the continued success and value of the software throughout its lifecycle.
-        
+
+
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
 Ethical issues that software enginners might face
@@ -257,7 +259,6 @@ How can software engineers ensure they adhere to ethical standards in their work
 
     Software engineers can ensure they adhere to ethical standards in their work by following a set of guiding principles and best practices. Firstly, they should prioritize user privacy and data security by implementing robust measures for protecting sensitive information and obtaining informed consent for data collection and processing. Secondly, software engineers should strive for fairness and inclusivity in their designs by addressing biases, avoiding discrimination, and promoting diversity in their teams and products. Transparency and accountability are also crucial, with engineers being open about their processes, algorithms, and decision-making criteria, and taking responsibility for the consequences of their work. Additionally, upholding professional integrity, avoiding conflicts of interest, and prioritizing safety, reliability, and user well-being are essential ethical considerations. Regularly updating skills and knowledge in ethics and staying informed about legal and regulatory requirements are also vital for ethical conduct in software engineering. Ultimately, by incorporating ethical considerations into every stage of the software development lifecycle and fostering a culture of ethical awareness and responsibility, software engineers can contribute to building trustworthy and socially responsible technology
 
-
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
@@ -266,9 +267,9 @@ Cite any references or sources you use in your answers.
 references
 
 1. prompt engineering platform
-https://chatgpt.com/
+   https://chatgpt.com/
 
-2. Introduction to software engineering  (Understanding the Fundamentals) by Chakin Power Learn Project Academy
-https://docs.google.com/presentation/d/1DqIQCq5Yt-JeeNfLH0ixIxtBwxpHvqWa/edit#slide=id.p1
+2. Introduction to software engineering (Understanding the Fundamentals) by Chakin Power Learn Project Academy
+   https://docs.google.com/presentation/d/1DqIQCq5Yt-JeeNfLH0ixIxtBwxpHvqWa/edit#slide=id.p1
 
-Submit your completed assignment by [due date].
+Submit your completed assignment [10/o6/2024].
