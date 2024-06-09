@@ -265,10 +265,10 @@ Cite any references or sources you use in your answers.
 
 references
 
-prompt engineering platform
+1. prompt engineering platform
 https://chatgpt.com/
 
-Introduction to software engineering  (Understanding the Fundamentals) by Chakin Power Learn Project Academy
+2. Introduction to software engineering  (Understanding the Fundamentals) by Chakin Power Learn Project Academy
 https://docs.google.com/presentation/d/1DqIQCq5Yt-JeeNfLH0ixIxtBwxpHvqWa/edit#slide=id.p1
 
 Submit your completed assignment by [due date].
