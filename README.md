@@ -55,7 +55,7 @@ waterfall and agile model definition
 
                      Agile development model     | Waterfall development model
     -----------------------------------------------------------------------------------------------
-    factor           Linear and sequential       | Iterative and incremental.
+    Approach         Linear and sequential       | Iterative and incremental.
 
     Flexibility      changes are difficult and   | changes can be made at any time based on feedback.
                      costly once the project is
@@ -272,4 +272,4 @@ references
 2. Introduction to software engineering (Understanding the Fundamentals) by Chakin Power Learn Project Academy
    https://docs.google.com/presentation/d/1DqIQCq5Yt-JeeNfLH0ixIxtBwxpHvqWa/edit#slide=id.p1
 
-Submit your completed assignment [10/o6/2024].
+Submit your completed assignment [10/06/2024].
